@@ -43,7 +43,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 99999;
-  background: rgb(126,44,92);
+  background: rgb(126,44,92); /*Erhan*/
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -57,7 +57,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: rgb(227,0,86);
+  background: rgb(227,0,86);/*Erhan*/
   color: #fff;
 }
 
@@ -363,7 +363,7 @@ h6 {
 #hero {
   width: 100%;
   padding: 0 0 0 0;
-  background: linear-gradient(180deg,#7E2C5C 0%, #00A89F 35%,#00A89F 100%);
+  background: linear-gradient(180deg,#7E2C5C 0%, #00A89F 35%,#00A89F 100%);/*Erhan*/
 }
 
 #hero h1 {
@@ -1261,6 +1261,8 @@ section {
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
+
+/* --------   Erhan   --------- */
 #footer {
   background: linear-gradient(130deg,#00A89F 0%, #7E2C5C 20%,#7E2C5C 80%,#00A89F 100%);
   color: #fff;
