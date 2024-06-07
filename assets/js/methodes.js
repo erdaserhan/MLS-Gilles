@@ -11,5 +11,6 @@ $(document).ready(function(){
       $("#orientationContinue").slideUp("slow");
       $("#buttonStopContinue").hide(1000);
       $("#buttonContinue").show(2000);
-    });      
+    });  
+    $(".photoAccom").fadeOut();
   });
