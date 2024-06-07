@@ -1,4 +1,4 @@
-$(document).ready(function(){
+$(function(){
     //Continuer à lire bouton
     $("#orientationContinue").hide();
     $("#buttonStopContinue").hide();
