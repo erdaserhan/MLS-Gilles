@@ -1,4 +1,4 @@
-$(function(){
+$(document).ready(function(){
     //Continuer à lire bouton
     $("#orientationContinue").hide();
     $("#buttonStopContinue").hide();
@@ -11,5 +11,5 @@ $(function(){
       $("#orientationContinue").slideUp("slow");
       $("#buttonStopContinue").hide(1000);
       $("#buttonContinue").show(2000);
-    });    
+    });      
   });
